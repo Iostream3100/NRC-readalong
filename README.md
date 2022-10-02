@@ -1,6 +1,7 @@
 # NRC-readalong
 NRC read along project
 
+## Team Member: Xiaotong Guan, Yongxiang Chen, Mengdi Wei, Yun Feng
 Indigenous Languages Technology Project 
 Digital Technologies Research Centre 
 National Research Council Canada 

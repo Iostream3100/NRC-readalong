@@ -56,3 +56,5 @@ subtitle in the screenshot) and images
 ReadAlong Studio Software Engineering Project Proposal 
  
 Figure 2: A read-along with Romanization and translations, each shown as translation lines. 
+
+

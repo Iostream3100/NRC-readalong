@@ -6,6 +6,9 @@ Indigenous Languages Technology Project
 Digital Technologies Research Centre 
 National Research Council Canada 
 
+## [User Story](https://github.com/Iostream3100/NRC-readalong/issues/4)
+
+
 ## Background
 The Indigenous Languages Technology Project includes a project on the creation of “read alongs” for teaching 
 Indigenous languages – i.e. interactive text-audio documents where words are highlighted as they are spoken. 

@@ -38,6 +38,7 @@ initialized in ‘editable’ mode:
 Each ReadAlong should have the web page title (shown in the browser tab), header (shown above the read-
 along) and subheader/subtitle (shown right under the header) editable. The edits here should persist in any 
 future instances of the Web Component. See Figure 1 for an example. 
+
  
 ReadAlong Studio Software Engineering Project Proposal 
 ### Milestone 2: Images 
@@ -48,13 +49,17 @@ encoded for inclusion in the single-file HTML offline format. See Figure 1 for a
 
 ### Milestone 3: Translations 
 Each line in each ReadAlong should allow for a corresponding translation line. These lines should be 
-removable and should use the Web Component’s built-in translation classes. See Figure 2 for an example.  
- 
+removable and should use the Web Component’s built-in translation classes. See Figure 2 for an example. 
+
+
+ <img width="488" alt="Screen Shot 2022-10-09 at 10 46 20 PM" src="https://user-images.githubusercontent.com/94739229/194804933-e1647734-1761-43b9-a4c1-07aa0f900ba0.png">
+
 Figure 1: Screenshot of Editable Web Component showing editable Header and Subheader (shows as title and 
 subtitle in the screenshot) and images 
  
 ReadAlong Studio Software Engineering Project Proposal 
- 
+
+ <img width="888" alt="Screen Shot 2022-10-08 at 11 58 04 PM" src="https://user-images.githubusercontent.com/94739229/194804945-b32c811a-ef4e-4ed1-9730-432055b0ca39.png">
 Figure 2: A read-along with Romanization and translations, each shown as translation lines. 
 
 

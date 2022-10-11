@@ -8,6 +8,11 @@ National Research Council Canada
 
 ## [User Story](https://github.com/Iostream3100/NRC-readalong/issues/4)
 
+## Tech Specification
+Front-end: TypeScript, Angular, Stencil.JS, SASS, Jest
+
+Back-end: Python, Flask, Docker
+
 
 ## Background
 The Indigenous Languages Technology Project includes a project on the creation of “read alongs” for teaching 

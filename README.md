@@ -14,6 +14,7 @@ Front-end: TypeScript, Angular, Stencil.JS, SASS, Jest
 Back-end: Python, Flask, Docker
 
 
+
 ## Background
 The Indigenous Languages Technology Project includes a project on the creation of “read alongs” for teaching 
 Indigenous languages – i.e. interactive text-audio documents where words are highlighted as they are spoken. 

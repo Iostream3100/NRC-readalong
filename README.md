@@ -10,10 +10,10 @@ National Research Council Canada
 
 ## Tech Specification
 Front-end: TypeScript, Angular, Stencil.JS, SASS, Jest
-
 Back-end: Python, Flask, Docker
 
-
+## User Story Flowchart
+![Recorder](https://user-images.githubusercontent.com/90473229/194729759-3f97e2bb-2471-401c-9c05-91af278d82c4.png)
 
 ## Background
 The Indigenous Languages Technology Project includes a project on the creation of “read alongs” for teaching 
